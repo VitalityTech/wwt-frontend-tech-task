@@ -1,1 +1,8 @@
-{}
+{
+	"modal": {
+		"title": "Filters",
+		"close": "Close",
+		"apply": "Apply",
+		"clearAll": "Clear all parameters"
+	}
+}

@@ -4,5 +4,9 @@
 		"close": "Close",
 		"apply": "Apply",
 		"clearAll": "Clear all parameters"
+	},
+	"home": {
+		"openButton": "Open Filter",
+		"selectedFilters": "Selected Filters"
 	}
 }
